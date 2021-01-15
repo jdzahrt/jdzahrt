@@ -1,6 +1,9 @@
 # Jesse Zahrt
--------------------
-*Software engineer focusing on developing APIs in Node.js. Have an interest in data management systems, quality data, and performance.*
+*Software engineer focusing on developing APIs. Have an interest in data management systems, quality data, and performance.*
+
+# About me
+- 🔭 I’m currently working on ... Node.js to build REST APIs
+- 🌱 I’m currently learning ... Python
 
 # Technical Experience
 
@@ -13,6 +16,9 @@
 **Database Developer** _(2014 - 2017)_
 
 **Database Administrator** _(2011 - 2014)_
+
+
+
 <!--
 **jdzahrt/jdzahrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
