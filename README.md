@@ -1,13 +1,29 @@
 # Jesse Zahrt
-*Software engineer focusing on developing APIs. Have an interest in data management systems, quality data, and performance.*
+*Software engineer manager that is focused on teamwork and delivering quality software. Always eager to learn and grow myself and others around me.*
+
+Have an interest in:
+* learning
+* data management systems
+* quality data
+* performance
+* scalability
+* efficiency
 
 # About me
-- 🔭 I’m currently working on ... Node.js to build REST APIs
+- 🔭 I’m currently working with ... Python and Django
 - 🌱 I’m currently learning ... Python
+- Previously I was working on Node.js to build REST APIs
 
 # Technical Experience
 
-**Software Engineer** _(2019 - current)_
+**Software Engineer Manager** _(2022 - current)_
+  - Leadership
+  - Encouring change and looking for oportunities to grow
+  - Focusing on software engineering metrics and quality of our platform
+  - Python
+  - Django
+
+**Software Engineer** _(2019 - 2022)_
   - API development using node.js, hapi.js, postgresql, gcp pub-sub
   - GraphQL
   - k8s and docker
